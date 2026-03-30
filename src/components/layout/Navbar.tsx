@@ -1,5 +1,3 @@
-import React from "react";
-
 // Define the interface for our new props
 interface NavbarProps {
   activeTab: string;

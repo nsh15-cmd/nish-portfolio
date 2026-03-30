@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Footer() {
   return (
     <footer className="w-full flex justify-between border-t border-border-line text-text-comment text-sm font-fira z-20 bg-[#0F172B]">

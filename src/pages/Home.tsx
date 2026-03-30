@@ -1,4 +1,3 @@
-import React from "react";
 import HeroText from "../components/home/HeroText";
 import RightColumn from "../components/home/RightColumn";
 

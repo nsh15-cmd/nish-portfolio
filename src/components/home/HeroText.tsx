@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function HeroText() {
   return (
     <div className="flex flex-col justify-center h-full gap-16 z-10">

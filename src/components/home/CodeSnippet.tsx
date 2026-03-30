@@ -1,5 +1,3 @@
-import React from "react";
-
 // Defining the props our snippet will accept
 interface CodeSnippetProps {
   code: string;

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 
 // Defining the core types for our game
 type GameState = "START" | "PLAYING" | "GAME_OVER" | "WON";

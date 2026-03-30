@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import WindowFrame from "./components/layout/WindowFrame";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
@@ -14,7 +14,6 @@ export default function App() {
     <WindowFrame>
       <Navbar activeTab={activeTab} setActiveTab={setActiveTab} />
 
-      {/* 2. Update the conditional rendering block to include Contact */}
       {activeTab === "_hello" && <Home />}
       {activeTab === "_about-me" && <AboutMe />}
       {activeTab === "_projects" && <Projects />}
