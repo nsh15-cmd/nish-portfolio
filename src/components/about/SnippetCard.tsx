@@ -1,5 +1,3 @@
-import React from "react";
-
 // Defining the specific data each card needs to render
 interface SnippetCardProps {
   username: string;

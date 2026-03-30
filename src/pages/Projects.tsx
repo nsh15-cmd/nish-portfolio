@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 // 1. Defining the shape of our project data
 interface Project {
