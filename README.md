@@ -8,7 +8,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-🌐 **Live Demo:** [Insert Your Vercel Link Here]
+🌐 **Live Demo:** [[https://nish-portfolio-eight.vercel.app/]]
 
 ---
 
